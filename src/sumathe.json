@@ -1,0 +1,221 @@
+[
+    {
+        "id": 1,
+        "img": "coffee-powder-263356_1280.jpg",
+        "name": "Tea Powder",
+        "amonut": 2
+    },
+    {
+        "id": 2,
+        "img": "coffee-powder-263356_1280.jpg",
+        "name": "Tea Powder",
+        "amonut": 5
+    },
+    {
+        "id": 2,
+        "img": "coffee-powder-263356_1280.jpg",
+        "name": "Tea Powder",
+        "amonut": 10
+    },
+    {
+        "id": 2,
+        "img": "coffee-powder-263356_1280.jpg",
+        "name": "Tea Powder",
+        "amonut": 20
+    },
+    {
+        "id": 2,
+        "img": "coffee-powder-263356_1280.jpg",
+        "name": "Tea Powder",
+        "amonut": 56
+    },
+    {
+        "id": 2,
+        "img": "IMG-20250711-WA0016.jpg",
+        "name": "Pigeon Peas",
+        "kg":"/1kg",
+        "amonut": 48
+    },
+    {
+        "id": 2,
+        "img": "IMG-20250711-WA0016.jpg",
+        "name": "Pigeon Peas",
+        "kg":"/500kg",
+        "amonut": 24
+    },
+    {
+        "id": 3,
+        "img": "ai-generated-8225268_1280.jpg",
+        "name": "SunFlower oil",
+        "kg":"/1li",
+        "amonut": 180
+    },
+    {
+        "id": 1,
+        "img": "bake-599521_1280.jpg",
+        "name": "Butter",
+        "amonut": 50
+    },
+    {
+        "id": 1,
+        "img": "caraway-4564182_1280.jpg",
+        "name": "Cumain",
+        "amonut": 60
+    },
+    {
+        "id": 1,
+        "img": "chili-powder-2198805_1280.jpg",
+        "name": "Mixing powder",
+        "amonut": 35
+    },
+    {
+        "id": 1,
+        "img": "chocolate-3364739_1280.jpg",
+        "name": "Coffer Powder",
+        "amonut": 12
+    },
+    {
+        "id": 1,
+        "img": "cinnamon-stick-514243_1280.jpg",
+        "name": "Bark",
+        "amonut": 20
+    },
+    {
+        "id": 1,
+        "img": "cocoa-powder-1883108_1280.jpg",
+        "name": "Cocoa Powder",
+        "amonut": 30
+    },
+    {
+        "id": 1,
+        "img": "food-3062139_1280.jpg",
+        "name": "Coconut Oil",
+        "amonut": 120
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0001.jpg",
+        "name": "Lux Soap",
+        "amonut": 33
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0004.jpg",
+        "name": "Pears Soap",
+        "amonut": 47
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0005.jpg",
+        "name": "Medimix Soap",
+        "amonut": 67
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0006.jpg",
+        "name": "Cinthol Sopa",
+        "amonut": 35
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0007.jpg",
+        "name": "Dettol Soap",
+        "amonut": 48
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0008.jpg",
+        "name": "Dove Soap",
+        "amonut": 55
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0010.jpg",
+        "name": "Mustard",
+        "amonut": 35
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0012.jpg",
+        "name": "Solt",
+        "amonut": 30
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0016.jpg",
+        "name": "Moong Dol",
+        "amonut": 40
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0017.jpg",
+        "name": "Urad Dal",
+        "amonut": 44
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0019.jpg",
+        "name": "Chana Dal",
+        "amonut": 48
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0020.jpg",
+        "name": "Horse Gram Dal",
+        "amonut": 33
+    },
+    {
+        "id": 1,
+        "img": "IMG-20250711-WA0021.jpg",
+        "name": "Spit Dal",
+        "amonut": 37
+    },
+    {
+        "id": 1,
+        "img": "matcha-2356774_1280.jpg",
+        "name": "Green Powder",
+        "amonut": 30
+    },
+    {
+        "id": 1,
+        "img": "olive-oil-1596417_1280.jpg",
+        "name": "Olive Oil",
+        "amonut": 70
+    },
+    {
+        "id": 1,
+        "img": "red-pepper-7247194_1280.jpg",
+        "name": "Red Peooer Powder",
+        "amonut": 28
+    },
+    {
+        "id": 1,
+        "img": "seeds-5517796_1280.jpg",
+        "name": "Black Rise",
+        "amonut": 75
+    },
+    {
+        "id": 1,
+        "img": "spices-1914130_1280.jpg",
+        "name": "Mixing Powder",
+        "amonut": 24
+    },
+    {
+        "id": 1,
+        "img": "spirulina-powder-8254087_1280.jpg",
+        "name": "Blue Powder",
+        "amonut": 34
+    },
+    {
+        "id": 1,
+        "img": "to-dye-43417_1280.jpg",
+        "name": "To Dye Powder",
+        "amonut": 40
+    },
+    {
+        "id": 1,
+        "img": "tomatoes-5325850_1280.jpg",
+        "name": "Leman Pickle",
+        "amonut": 12
+    }
+]

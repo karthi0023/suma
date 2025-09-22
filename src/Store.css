@@ -1,0 +1,338 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.frist {
+    height: 630px;
+    overflow: hidden;
+    gap: 80px;
+    display: flex;
+    background-color: #e6e6e6;
+}
+
+.content-box {
+    width: 590px;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.content-box h2 {
+    font-family: "pippons", sans-serif;
+    font-size: 3.5rem;
+}
+
+.content-box p {
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: left;
+    color: rgb(85, 85, 85);
+    line-height: 20px;
+}
+
+.fr-btn {
+    margin-top: 50px;
+    display: flex;
+    gap: 60px;
+    cursor: pointer;
+}
+
+.fr-btn-one {
+    padding: 10px 40px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    outline: none;
+    background-color: orangered;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+.fr-btn-two {
+    padding: 10px 40px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    outline: none;
+    background-color: black;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.fr-image {
+    width: 550px;
+    height: 500px;
+    border-radius: 50%;
+    display: grid;
+    position: relative;
+    place-items: center;
+    margin-top: 40px;
+    animation: roll 100s linear infinite;
+}
+@keyframes roll {
+    0%{
+        transform: rotateZ(0deg);
+    }
+    100%{
+        transform: rotateZ(360deg);
+    }
+}
+.main-image{
+    cursor: pointer;
+    width: 360px;
+    position: absolute;
+    height: 360px;
+    top: 24%;
+    left: 63.6%;
+    box-shadow: 0px 0px 50px white;
+    object-fit: cover;
+    border-radius:50%;
+
+    &:hover{
+        opacity: 0.9;
+    }
+}
+
+.mani-animation{
+    cursor: pointer;
+    position: absolute;
+    width: 50px;
+    top: 10%;
+    left: 20%;
+    height:50px;
+    border-radius: 50%;
+
+    &:hover{
+        scale: 1.2;
+    }
+}
+
+.aa{
+    top: 23%;
+    left: 10%;
+}
+.bb{
+    top: 38%;
+    left: 5%;
+}
+.cc{
+    top: 54%;
+    left: 5%;
+}
+.dd{
+    top: 69%;
+    left: 8.5%;
+}
+.f{
+    top: 80%;
+    left: 19%;
+}
+.g{
+    top: 88%;
+    left: 32%;
+}
+/* comman */
+.h{
+    top: 90%;
+    left: 46.4%;
+}
+.i{
+    top: 88%;
+    left: 60.6%;
+}
+.j{
+    top: 80%;
+    left: 73%;
+}
+.k{
+    top: 23%;
+    left: 82%;
+}
+.l{
+    top: 38%;
+    left: 87%;
+}
+.m{
+    top: 54%;
+    left: 86%;
+}
+.n{
+    top: 69%;
+    left: 82%;
+}
+.o{
+    top: 10%;
+    left: 72%;
+}
+.p{
+    top: 3%;
+    left: 32%;
+}
+.q{
+    top: 1px;
+    left: 46.4%;
+}
+.r{
+    top: 2%;
+    left: 60.6%;
+}
+.animation {
+    display: grid;
+    gap: 5px;
+    top: 38%;
+    left: 15px;
+    position: absolute;
+}
+
+.one {
+    width: 40px;
+    cursor: pointer;
+    height: 40px;
+    background-color: orangered;
+    border: none;
+    outline: none;
+}
+.one img{
+   object-fit: cover;
+   width: 15px;
+   height: 30px;
+}
+.two img{
+   object-fit: cover;
+   width: 15px;
+   height: 30px;
+}
+.two {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border: none;
+    outline: none;
+}
+
+.second-box {
+    height: 350px;
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    background-color:rgb(43, 43, 43);
+}
+
+.sec-content {
+    display: flex;
+    margin-left: 60px;
+}
+
+.sec-content img {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.sec-name {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sec-location {
+    width: 300px;
+    margin-top: 5px;
+    color: rgb(206, 206, 206);
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.sec-number {
+    width: 300px;
+    margin-top: 10px;
+    color: rgb(206, 206, 206);
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.sec-con {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.sec-right-img {
+    width: 500px;
+    height: 300px;
+    background-color: black;
+}
+@media only screen and (max-width:767px) {
+  .frist{
+    height: 680px;
+    background-color: white;
+  }
+    .mani-animation{
+        display: none;
+    }
+ 
+    .main-image{
+        width: 250px;
+        height: 250px;
+        left: 10%;
+        margin-top: 290px;
+    }
+    .animation{
+        display: none;
+    }
+    .content-box{
+        margin-top: 120px;
+    }
+    .content-box h2{
+        width: 270px;
+        margin-top: -50px;
+        margin-left: -80px;
+        font-size: 2.8rem;
+        line-height: 50px;
+    }
+    .content-box p{
+        font-size: 10px;
+        line-height: 12px;
+        margin-left: -80px;
+        margin-top: 20px;
+        width: 270px;
+        color: rgb(141, 141, 141);
+    }
+    .fr-btn{
+        display: grid;
+        gap: 10px;
+        margin-top:300px;
+        margin-left: -60px;
+    }
+    .fr-btn-one{
+        width: 250px;
+    }
+    .fr-btn-two{
+        width: 250px;
+    }
+    .second-box{
+        height: 400px;
+    }
+    .sec-content{
+        
+        display: grid;
+        text-align: center;
+    }
+    .sec-content img{
+        margin-top: 30px;
+    }
+    .sec-con{
+        margin-left: -50px;
+        scale: 0.8;
+    }
+        
+}
